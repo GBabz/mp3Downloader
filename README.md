@@ -8,7 +8,7 @@ Once you are done with all this you should be good to go.
 # How it works 
 **1.** Put all the Youtube urls that you want to download into **UrlList.txt** (one url per line). <br>
 **2.** Execute the script. <br>
-**3.** Your done ! Your mp3 files will be store in the mp3 folder.
+**3.** Your done ! Your mp3 files will be stored in the mp3 folder.
 # Running the script
 Open cmd.exe then simply type :<br> **casperjs path/Mp3Downloader.js**<br>("path" = where the script folder is located)<br>
 I recommend you to make a .bat file that will execute the command automatically (in order to save time).
